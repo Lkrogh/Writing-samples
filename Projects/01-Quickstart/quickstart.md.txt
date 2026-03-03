@@ -1,0 +1,4 @@
+Beginners purpose: show how to run the tool prerequisites:
+1. Do this
+2. Do that and expect 
+
