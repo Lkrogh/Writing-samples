@@ -1,1 +1,1 @@
-# Writing-samples
+Hi — I'm Lars Krogh, a technical writer transitioning from copywriting. This repo contains writing samples: A quickstart guide, a tutorial, and an API example. See the projects folder for samples.
